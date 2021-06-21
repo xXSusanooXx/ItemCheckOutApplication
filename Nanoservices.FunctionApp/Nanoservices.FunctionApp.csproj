@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Nanoservices.Entities\Nanoservices.Entities.csproj" />
+    <ProjectReference Include="..\Nanoservices.Infrastructure\Nanoservices.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
